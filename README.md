@@ -55,7 +55,7 @@ I don't just want to *use* AI tools — I want to *build* them.
 
 <div align="center">
 
-![Ramit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamitSarker29&show_icons=true&theme=tokyonight&hide_border=true)
+![Ramit's GitHub ![](https://streak-stats.demolab.com?user=RamitSarker29&theme=tokyonight&hide_border=true))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamitSarker29&layout=compact&theme=tokyonight&hide_border=true)
 
