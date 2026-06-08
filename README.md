@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝  
 ```
 
-### `building toward AI Full Stack Development — one commit at a time`
+### `BUILDING TOWARD AI FULL STACK DEVELOPEMENT`
 
 </div>
 
