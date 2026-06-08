@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝  
 ```
 
-### `BUILDING TOWARD AI FULL STACK DEVELOPEMENT`
+### `BUILDING TOWARD AI FULL STACK DEVELOPMENT`
 
 </div>
 
