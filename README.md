@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝
 </pre>
 
-### BUILDING TOWARD AI FULL STACK DEVELOPMENT
+**BUILDING TOWARD AI FULL STACK DEVELOPMENT**
 
-</div>
+</div>>
 
 ---
 
