@@ -87,15 +87,6 @@
   <img src="https://ghchart.rshah.org/40c463/RamitSarker29" alt="Ramit's GitHub Contribution Calendar" width="100%" />
 </p>
 
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RamitSarker29&theme=github-compact" alt="GitHub Contribution Activity Graph" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
