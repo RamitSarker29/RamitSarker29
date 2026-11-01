@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramit sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramit sarker" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ramit Sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramit sarker" height="30" width="40" /></a>
 <a href="https://instagram.com/the_red_kopite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_red_kopite" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ramit_29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ramit_29" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ramitsarker07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramitsarker07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramit_sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramit_sarker" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Ramit_Sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramit_sarker" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
