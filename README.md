@@ -79,14 +79,6 @@
   <img src="https://streak-stats.demolab.com/?user=RamitSarker29&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
 </p>
 
----
-
-### 🟩 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/40c463/RamitSarker29" alt="Ramit's GitHub Contribution Calendar" width="100%" />
-</p>
-
 
 ### 🤝 Connect With Me
 
